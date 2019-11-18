@@ -10,11 +10,11 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://java9hui.com/my-github-repos)
-* [观察者模式](http://java9hui.com/articles/2019/11/03/1572780759019.html)
-* [装饰器模式](http://java9hui.com/articles/2019/11/03/1572779904474.html)
-* [ 策略模式](http://java9hui.com/articles/2019/11/02/1572698977567.html)
-* [单例模式](http://java9hui.com/articles/2019/11/02/1572698760137.html)
+* [我在 GitHub 上的开源项目](http://java9hui.com/solo/my-github-repos)
+* [观察者模式](http://java9hui.com/solo/articles/2019/11/03/1572780759019.html)
+* [装饰器模式](http://java9hui.com/solo/articles/2019/11/03/1572779904474.html)
+* [ 策略模式](http://java9hui.com/solo/articles/2019/11/02/1572698977567.html)
+* [单例模式](http://java9hui.com/solo/articles/2019/11/02/1572698760137.html)
 
 
 
