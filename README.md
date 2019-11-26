@@ -10,17 +10,17 @@ Java9hui 的个人博客
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://java9hui.com/solo/my-github-repos)
-* [10_代理模式](http://java9hui.com/solo/articles/2019/11/21/1574322574894.html)
-* [9_责任链模式](http://java9hui.com/solo/articles/2019/11/21/1574322518136.html)
-* [8_门面模式（Facade）](http://java9hui.com/solo/articles/2019/11/21/1574322372542.html)
-* [7_模板方法模式](http://java9hui.com/solo/articles/2019/11/21/1574322310028.html)
-* [6_工厂模式](http://java9hui.com/solo/articles/2019/11/21/1574322241292.html)
-* [5_单例模式](http://java9hui.com/solo/articles/2019/11/21/1574322132318.html)
-* [4_适配器模式](http://java9hui.com/solo/articles/2019/11/21/1574321921489.html)
-* [3_观察者模式](http://java9hui.com/solo/articles/2019/11/21/1574321350814.html)
-* [1_策略模式](http://java9hui.com/solo/articles/2015/11/21/1574319960927.html)
-* [2_装饰器模式](http://java9hui.com/solo/articles/2015/11/21/1574320996611.html)
+* [我在 GitHub 上的开源项目](http://java9hui.com/my-github-repos)
+* [10_代理模式](http://java9hui.com/articles/2019/11/21/1574322574894.html)
+* [9_责任链模式](http://java9hui.com/articles/2019/11/21/1574322518136.html)
+* [8_门面模式（Facade）](http://java9hui.com/articles/2019/11/21/1574322372542.html)
+* [7_模板方法模式](http://java9hui.com/articles/2019/11/21/1574322310028.html)
+* [6_工厂模式](http://java9hui.com/articles/2019/11/21/1574322241292.html)
+* [5_单例模式](http://java9hui.com/articles/2019/11/21/1574322132318.html)
+* [4_适配器模式](http://java9hui.com/articles/2019/11/21/1574321921489.html)
+* [3_观察者模式](http://java9hui.com/articles/2019/11/21/1574321350814.html)
+* [1_策略模式](http://java9hui.com/articles/2015/11/21/1574319960927.html)
+* [2_装饰器模式](http://java9hui.com/articles/2015/11/21/1574320996611.html)
 
 
 
